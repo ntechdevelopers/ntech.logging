@@ -1,0 +1,20 @@
+version: '3.7'
+
+services:
+
+  seq:
+    image: datalust/seq
+    container_name: seq
+    environment:
+      - ACCEPT_EULA=Y
+    networks:
+      - ntech-network
+    volumes:
+      - seq-data:/data
+
+volumes:
+  seq-data:
+
+networks:
+  ntech-network:
+    name: ntech-network

@@ -1,0 +1,10 @@
+D:\Seminar\Learning\POC\Ntech.Logging\Ntech.Logging.Serilog\bin\Debug\netcoreapp3.1\Ntech.Logging.Serilog.deps.json
+D:\Seminar\Learning\POC\Ntech.Logging\Ntech.Logging.Serilog\bin\Debug\netcoreapp3.1\Ntech.Logging.Serilog.dll
+D:\Seminar\Learning\POC\Ntech.Logging\Ntech.Logging.Serilog\bin\Debug\netcoreapp3.1\Ntech.Logging.Serilog.pdb
+D:\Seminar\Learning\POC\Ntech.Logging\Ntech.Logging.Serilog\obj\Debug\netcoreapp3.1\Ntech.Logging.Serilog.csproj.AssemblyReference.cache
+D:\Seminar\Learning\POC\Ntech.Logging\Ntech.Logging.Serilog\obj\Debug\netcoreapp3.1\Ntech.Logging.Serilog.GeneratedMSBuildEditorConfig.editorconfig
+D:\Seminar\Learning\POC\Ntech.Logging\Ntech.Logging.Serilog\obj\Debug\netcoreapp3.1\Ntech.Logging.Serilog.AssemblyInfoInputs.cache
+D:\Seminar\Learning\POC\Ntech.Logging\Ntech.Logging.Serilog\obj\Debug\netcoreapp3.1\Ntech.Logging.Serilog.AssemblyInfo.cs
+D:\Seminar\Learning\POC\Ntech.Logging\Ntech.Logging.Serilog\obj\Debug\netcoreapp3.1\Ntech.Logging.Serilog.csproj.CoreCompileInputs.cache
+D:\Seminar\Learning\POC\Ntech.Logging\Ntech.Logging.Serilog\obj\Debug\netcoreapp3.1\Ntech.Logging.Serilog.dll
+D:\Seminar\Learning\POC\Ntech.Logging\Ntech.Logging.Serilog\obj\Debug\netcoreapp3.1\Ntech.Logging.Serilog.pdb
